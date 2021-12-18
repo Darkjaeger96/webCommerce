@@ -1,0 +1,15 @@
+<urlset>
+	<url>
+		<loc>http://www.webcommerce.com/</loc>
+		<lastmod>2021-18-12</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.webcommerce.com/maqueta1.htm</loc>
+		<lastmod>2009-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>
